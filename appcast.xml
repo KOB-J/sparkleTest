@@ -4,11 +4,11 @@
         <title>SparkleTest2</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 13 May 2024 16:49:58 +0400</pubDate>
-            <sparkle:version>0.9</sparkle:version>
+            <pubDate>Mon, 13 May 2024 16:58:15 +0400</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://kob-j.github.io/sparkleTest/SparkleTest2.zip" length="918536" type="application/octet-stream" sparkle:edSignature="m2L9wCXJ2l0CoXwjB2LKnGjrO6TQ0oBpym+uIHAujnvGOKoM6azIO09SWp6/50C8V/DpOL5dpj6q66epiq0BBQ=="/>
+            <enclosure url="https://kob-j.github.io/sparkleTest/SparkleTest2.zip" length="918570" type="application/octet-stream" sparkle:edSignature="VlUFtFbQsIBy9ZNh2Sl9uvVhydEXQI9IvfuJm6PO3NslgxMSlwt6Gj7onCit4b45/V8tngI4Ajgym/scYdr4CA=="/>
         </item>
     </channel>
 </rss>

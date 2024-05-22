@@ -104,4 +104,4 @@
     }
   ],
   "body": "# Major JUCE features and updates\n\nThis file lists the more notable headline features. For more detailed info\nabout changes and bugfixes please see the git log and BREAKING_CHANGES.md.\n\n## Version 7.0.12\n\n  - Fixed an issue with timers in Pro Tools\n  - Fixed an issue with Projucer Xcode code signing\n",
-}
+
